@@ -30,4 +30,3 @@ public abstract class Middleware {
         return next.check(email, password);
     }
 }
-
